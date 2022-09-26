@@ -1,7 +1,7 @@
 # TaxFyle
 
-This program helps you calculate income tax!:
-project that takes in an input of w-2 wages earned & uses a HashMap to calculate the income taxes depending on one of the 50 states that the user picks. 
+This program helps you calculate income tax!
+Takes in an input of w-2 wages earned & uses a HashMap to calculate the income taxes depending on one of the 50 states that the user picks. 
 
 package program;
 
